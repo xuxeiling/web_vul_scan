@@ -30,3 +30,4 @@ web漏洞扫描器
 用例文档实例可以参照 yongli.xlsx
 
 # 数据存数据库
+![web扫描器流程图](https://user-images.githubusercontent.com/34116769/123792024-bc7ed700-d912-11eb-92f9-4a0a3abf26ef.png)
