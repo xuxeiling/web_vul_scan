@@ -1,0 +1,13 @@
+http://www.baidu.com/baidu.html?from=noscript	RFI!
+http://www.baidu.com/s?wd=%e4%bb%8a%e6%97%a5%e6%96%b0%e9%b2%9c%e4%ba%8b&tn=se_pclogos_8whnvm25&sa=ire_dl_gh_logo&rsv_dl=igh_logo_pcs	RFI!
+http://www.baidu.com/s?rtt=1&bsst=1&cl=2&tn=news&word=	XSS!
+http://www.baidu.com/s?rtt=1&bsst=1&cl=2&tn=news&word=	RFI!
+http://www.baidu.com/s?wd=%e5%bc%a0%e8%8b%a5%e6%98%80%e5%9b%9e%e5%ba%94%e6%b6%891.4%e4%ba%bf%e8%bf%9d%e7%ba%a6%e7%ba%a0%e7%ba%b7&usm=1&ie=utf-8&rsv_cq=%e4%bb%8a%e6%97%a5%e6%96%b0%e9%b2%9c%e4%ba%8b&rsv_dl=0_right_fyb_pchot_20811_01&rsf=5f7ee5391f741f066ebaaa6942897603_21_30_28	RFI!
+http://www.baidu.com/s?wd=%e4%bb%8a%e6%97%a5%e6%96%b0%e9%b2%9c%e4%ba%8b&oq=%e4%bb%8a%e6%97%a5%e6%96%b0%e9%b2%9c%e4%ba%8b&ie=utf-8&rsv_pq=ca96a31100035778&rsv_t=5fefi4bxycz6j4j6qof5zvkuersa9u11swcbhkjkpfehi5hj1lhouzp6dz8&rqlang=cn&nojs=1&bqid=ca96a31100035778	RFI!
+http://www.baidu.com/s?wd=%e4%bb%8a%e6%97%a5%e6%96%b0%e9%b2%9c%e4%ba%8b%20%e7%99%be%e5%ba%a6&rsf=1000008&rsp=2&f=1&oq=%e4%bb%8a%e6%97%a5%e6%96%b0%e9%b2%9c%e4%ba%8b&ie=utf-8&usm=1&rsv_pq=ca96a31100035778&rsv_t=eb04ojvsg6jf2n7jmeasyk32k8owi6vi13wwgrdwcs6%2fnooslnmf2xigqy8&rqlang=cn&rs_src=0&rsv_pq=ca96a31100035778&rsv_t=eb04ojvsg6jf2n7jmeasyk32k8owi6vi13wwgrdwcs6%2fnooslnmf2xigqy8	RFI!
+http://www.baidu.com/sf/vsearch?pd=video&tn=vsearch&lid=ca96a31100035778&ie=utf-8&rsv_pq=ca96a31100035778&wd=%e4%bb%8a%e6%97%a5%e6%96%b0%e9%b2%9c%e4%ba%8b&rsv_spt=5&rsv_t=fd49q34v1mnb06w7fkoioj4jmoqjz2zgrfkh5y3dgra7anmyglzlqqk3fu4&rsv_bp=1&f=8	RFI!
+http://www.baidu.com/s?wd=%e4%bb%8a%e6%97%a5%e6%96%b0%e9%b2%9c%e4%ba%8b&pn=10&oq=%e4%bb%8a%e6%97%a5%e6%96%b0%e9%b2%9c%e4%ba%8b&ie=utf-8&usm=1&rsv_pq=ca96a31100035778&rsv_t=eb04ojvsg6jf2n7jmeasyk32k8owi6vi13wwgrdwcs6%2fnooslnmf2xigqy8	RFI!
+http://www.baidu.com/sf/vsearch?pd=video&tn=vsearch&lid=ca96a31100035778&ie=utf-8&wd=%e4%bb%8a%e6%97%a5%e6%96%b0%e9%b2%9c%e4%ba%8b&rsv_spt=7&rsv_bp=1&f=8&oq=%e4%bb%8a%e6%97%a5%e6%96%b0%e9%b2%9c%e4%ba%8b&rsv_pq=ca96a31100035778&rsv_t=eb04ojvsg6jf2n7jmeasyk32k8owi6vi13wwgrdwcs6%2fnooslnmf2xigqy8	RFI!
+http://www.baidu.com/s?wd=%e5%87%a4%e5%87%b0%e7%bd%91&usm=1&ie=utf-8&rsv_cq=%e4%bb%8a%e6%97%a5%e6%96%b0%e9%b2%9c%e4%ba%8b&rsv_dl=0_right_recommends_merge_20826&euri=9c5765965dd84ec5980f63887e9e4881	RFI!
+http://www.baidu.com/link?url=eozud399xv_d-fo19d6qwnh8tye2sz_1oebyxra_wcsjs4n95sskn_i_ykbehdrhlfp87fhjwynxmtvkqucogk	RFI!
+http://www.baidu.com/s?wd=%e4%bb%8a%e6%97%a5%e6%96%b0%e9%b2%9c%e4%ba%8b&pn=10&oq=%e4%bb%8a%e6%97%a5%e6%96%b0%e9%b2%9c%e4%ba%8b&ie=utf-8&usm=1&rsv_pq=ca96a31100035778&rsv_t=eb04ojvsg6jf2n7jmeasyk32k8owi6vi13wwgrdwcs6%2fnooslnmf2xigqy8&rsv_page=1	RFI!
